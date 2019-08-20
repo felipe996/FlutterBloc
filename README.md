@@ -1,4 +1,4 @@
-# teste_app
+# Bloc_app
 
 A new Flutter application.
 
